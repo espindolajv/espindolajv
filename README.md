@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" style="border-radius:15px;" height="300" src="./assets/" />
+<img align="right" style="border-radius:15px;" height="300" src="./assets/pixel-joao.jpeg" />
 
 💻 **Desenvolvedor Full-Stack** | 21 anos | Explorador de Tecnologia e Código Limpo
 
