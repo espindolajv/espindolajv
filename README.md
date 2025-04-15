@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" style="border-radius:15px;" height="300" src="./assets/pixel-joao.jpeg" />
+<img align="right" style="border-radius:15px;" height="300" src="./assets/" />
 
 💻 **Desenvolvedor Full-Stack** | 21 anos | Explorador de Tecnologia e Código Limpo
 
@@ -24,7 +24,7 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" alt="NestJS" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt=".NET" />
@@ -60,7 +60,7 @@ Gosto de aprender coisas novas, colaborar em time e entregar soluções bem cons
 ## 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/joaovictormacedo/](https://www.linkedin.com/in/joaoespmacedo/)" target="_blank">
+  <a href="https://www.linkedin.com/in/joaoespmacedo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joao.espmacedo@gmail.com">
@@ -70,7 +70,6 @@ Gosto de aprender coisas novas, colaborar em time e entregar soluções bem cons
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <div align="right">
