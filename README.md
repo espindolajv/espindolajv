@@ -31,19 +31,11 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 ---
 
-## 📬 Vamos nos conectar?
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaovictormacedo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joao.espmacedo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://lnkd.in/dp3su82W" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindolajv&layout=compact&theme=radical" width="45%" />
+</div>
 
 ---
 
@@ -67,6 +59,22 @@ Muito prazer, sou **João Victor**, tenho experiência em:
 - Metodologias ágeis: **Scrum** e **Kanban**
 
 Gosto de aprender coisas novas, colaborar em time e entregar soluções bem construídas e funcionais.
+
+---
+
+## 📬 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joaovictormacedo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joao.espmacedo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://lnkd.in/dp3su82W" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
