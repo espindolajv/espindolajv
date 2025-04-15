@@ -10,7 +10,13 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 ---
 
-## 🚀 Tech Stack
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindolajv&layout=compact&theme=radical" width="45%" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -29,17 +35,8 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=espindolajv&layout=compact&theme=radical" width="45%" />
-</div>
 
 ---
-
-## 🐍 Snake Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/espindolajv/espindolajv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
