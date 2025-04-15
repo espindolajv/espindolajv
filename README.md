@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
+  <img src="https://img.icons8.com/ios-filled/50/61DAFB/react-native.png" height="30" alt="react native logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
   <img width="12" />
@@ -42,13 +42,13 @@
 
 <div align="left">
   <a href="mailto:joao.espmacedo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=D14836&labelColor=white&style=flat-square" height="28" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/joaovictormacedo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=0A66C2&labelColor=white&style=flat-square" height="28" alt="linkedin logo" />
   </a>
-  <a href="https://joaomacedo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  <a href="https://lnkd.in/dp3su82W" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=vercel&label=&color=white&logoColor=000000&labelColor=white&style=flat-square" height="28" alt="portfolio logo" />
   </a>
 </div>
 
