@@ -70,6 +70,7 @@ Gosto de aprender coisas novas, colaborar em time e entregar soluções bem cons
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <div align="right">
