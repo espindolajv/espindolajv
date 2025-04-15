@@ -36,9 +36,9 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/espindolajv/espindolajv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
 
 ---
 
