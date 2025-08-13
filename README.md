@@ -40,14 +40,14 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 ### 📱 **Mobile**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,expo,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=react,androidstudio" />
   </a>
 </p>
 
 ### 🗄️ **Banco de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,prisma" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 ### 🎨 **Design & Testes**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,jest,cypress,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,jest,vitest,cypress,postman,vscode" />
   </a>
 </p>
 
