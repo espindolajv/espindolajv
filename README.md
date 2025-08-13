@@ -103,8 +103,3 @@ Atualmente trabalho como **Desenvolvedor FullStack na MV Gois**, onde contribuo 
   </a>
 </p>
 
----
-
-<div align="right">
-  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="120" />
-</div>
