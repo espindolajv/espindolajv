@@ -16,23 +16,43 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,vite" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,dotnet,express" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,azure,figma" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,cypress,postman,linux,vscode" />
+  </a>
+</p>
 
 ---
 
@@ -44,16 +64,17 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 ## 🧩 Sobre mim
 
-Muito prazer, sou **João Victor**, tenho experiência em:
+Muito prazer, sou **João Victor**, desenvolvedor fullstack com experiência em:
 
-- Front-end moderno com **React**, **Angular**, **Next.js**, **Tailwind**, **Sass**, **TypeScript**, **React Native**
-- Back-end robusto com **Node.js** e **C# (.NET)**
-- Banco de dados **SQL** e **NoSQL**
-- Containers e DevOps com **Docker**, **CI/CD** e **AWS**
-- Foco em **UX/UI Design** com prototipação no **Figma**
-- Metodologias ágeis: **Scrum** e **Kanban**
+- **Frontend:** React, Angular, React Native, Next.js, TypeScript, Tailwind, Sass
+- **Backend:** Node.js, Nest.js, C# (.NET), APIs REST
+- **Mobile:** React Native, Expo (iOS e Android)
+- **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB
+- **DevOps & Cloud:** Docker, Azure, Git/GitHub
+- **Design:** Figma, UX/UI, interfaces responsivas
+- **Testes:** Jest, Vitest, Cypress (testes automatizados)
 
-Gosto de aprender coisas novas, colaborar em time e entregar soluções bem construídas e funcionais.
+Atualmente trabalho como **Desenvolvedor FullStack na MV Gois**, onde contribuo para o desenvolvimento de aplicações web e mobile, focando em performance, escalabilidade e qualidade de código.
 
 ---
 
@@ -66,7 +87,7 @@ Gosto de aprender coisas novas, colaborar em time e entregar soluções bem cons
   <a href="mailto:joao.espmacedo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://lnkd.in/dp3su82W" target="_blank">
+  <a href="https://joaomacedo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
