@@ -19,47 +19,47 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 **Frontend**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vite" />
   </a>
 </p>
 
 ### 🔧 **Backend**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet" />
   </a>
 </p>
 
 ### 📱 **Mobile**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,expo,androidstudio" />
   </a>
 </p>
 
 ### 🗄️ **Banco de Dados**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
   </a>
 </p>
 
 ### ☁️ **DevOps & Cloud**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,azure,linux" />
   </a>
 </p>
 
 ### 🎨 **Design & Testes**
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,jest,cypress,postman,vscode" />
   </a>
