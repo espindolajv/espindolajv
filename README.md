@@ -69,7 +69,7 @@ Desenvolvedor de Software com paixão por resolver problemas reais através da t
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wellingtoncorreia/wellingtoncorreia/output/snake.svg" alt="Snake animation" align="center" />
 
 ---
 
